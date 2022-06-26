@@ -55,6 +55,14 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Unity": {
+              "target": "Package",
+              "version": "[5.11.10, )"
+            },
+            "Unity.NetCore": {
+              "target": "Package",
+              "version": "[4.0.3, )"
             }
           },
           "imports": [
